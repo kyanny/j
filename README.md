@@ -1,3 +1,5 @@
+# j - single binary command line tool to query/dump JSON, made by mruby and mruby-cli
+
 ```
  docker-compose run compile
  curl -s http://api.nobelprize.org/v1/prize.json
